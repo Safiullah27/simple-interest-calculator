@@ -1,4 +1,4 @@
-# Simple Interest Calculator
+# Simple Interest Calculator 🔢
 
 This is a Bash-based calculator that computes simple interest given the principal, rate, and time.
 
